@@ -10,7 +10,7 @@ The architecture had to be adjusted a little bit to get any learning signal...
 
 ## Results
 
-![cat_images](_results/_generated_cat_images/Screen Shot 2018-01-08 at 19.21.07.png)
+![cat_images](_results/_generated_cat_images/lots_of_cats.png)
 
 
 ## Training Curves
