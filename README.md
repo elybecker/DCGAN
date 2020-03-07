@@ -35,8 +35,7 @@ or simply run the jupyter notebook...
 
 ## Disclaimer
 
-Old project from 2017 or something... 
-code quaility is shit
+Old project from 2017 
 
 ## References
 
